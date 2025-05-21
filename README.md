@@ -1,2 +1,3 @@
-# stepik_auto_tests_course
-https://stepik.org/lesson/187065/step/7?unit=161976
+Курс "Автоматизация тестирования с помощью Selenium и Python" — Домашние задания
+
+Тесты находятся в папке Tests.
